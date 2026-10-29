@@ -1,0 +1,3 @@
+<?php
+define('WHATISMYIP_API_KEY','4462247b90fc2cd5c9f26d62239a8231');
+?>

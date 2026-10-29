@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historique>
+  <entree date="2026-01-01">
+    <carburant nom="Gazole" moyenne="1.649"/>
+    <carburant nom="SP95" moyenne="1.717"/>
+    <carburant nom="E85" moyenne="0.776"/>
+    <carburant nom="E10" moyenne="1.696"/>
+    <carburant nom="SP98" moyenne="1.806"/>
+    <carburant nom="GPLc" moyenne="0.983"/>
+  </entree>
+  <entree date="2026-01-02">
+    <carburant nom="Gazole" moyenne="1.619"/>
+    <carburant nom="SP95" moyenne="1.689"/>
+    <carburant nom="E85" moyenne="0.755"/>
+    <carburant nom="E10" moyenne="1.666"/>
+    <carburant nom="SP98" moyenne="1.765"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-03">
+    <carburant nom="Gazole" moyenne="1.624"/>
+    <carburant nom="SP95" moyenne="1.689"/>
+    <carburant nom="E85" moyenne="0.760"/>
+    <carburant nom="E10" moyenne="1.671"/>
+    <carburant nom="SP98" moyenne="1.773"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-01-04">
+    <carburant nom="Gazole" moyenne="1.647"/>
+    <carburant nom="SP95" moyenne="1.689"/>
+    <carburant nom="E85" moyenne="0.777"/>
+    <carburant nom="E10" moyenne="1.692"/>
+    <carburant nom="SP98" moyenne="1.796"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-05">
+    <carburant nom="Gazole" moyenne="1.633"/>
+    <carburant nom="SP95" moyenne="1.702"/>
+    <carburant nom="E85" moyenne="0.762"/>
+    <carburant nom="E10" moyenne="1.680"/>
+    <carburant nom="SP98" moyenne="1.780"/>
+    <carburant nom="GPLc" moyenne="0.977"/>
+  </entree>
+  <entree date="2026-01-06">
+    <carburant nom="Gazole" moyenne="1.643"/>
+    <carburant nom="SP95" moyenne="1.709"/>
+    <carburant nom="E85" moyenne="0.764"/>
+    <carburant nom="E10" moyenne="1.689"/>
+    <carburant nom="SP98" moyenne="1.791"/>
+    <carburant nom="GPLc" moyenne="0.975"/>
+  </entree>
+  <entree date="2026-01-07">
+    <carburant nom="Gazole" moyenne="1.644"/>
+    <carburant nom="SP95" moyenne="1.707"/>
+    <carburant nom="E85" moyenne="0.768"/>
+    <carburant nom="E10" moyenne="1.687"/>
+    <carburant nom="SP98" moyenne="1.791"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-08">
+    <carburant nom="Gazole" moyenne="1.646"/>
+    <carburant nom="SP95" moyenne="1.705"/>
+    <carburant nom="E85" moyenne="0.766"/>
+    <carburant nom="E10" moyenne="1.690"/>
+    <carburant nom="SP98" moyenne="1.792"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-09">
+    <carburant nom="Gazole" moyenne="1.643"/>
+    <carburant nom="SP95" moyenne="1.705"/>
+    <carburant nom="E85" moyenne="0.769"/>
+    <carburant nom="E10" moyenne="1.688"/>
+    <carburant nom="SP98" moyenne="1.791"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-10">
+    <carburant nom="Gazole" moyenne="1.643"/>
+    <carburant nom="SP95" moyenne="1.702"/>
+    <carburant nom="E85" moyenne="0.773"/>
+    <carburant nom="E10" moyenne="1.688"/>
+    <carburant nom="SP98" moyenne="1.792"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-01-11">
+    <carburant nom="Gazole" moyenne="1.664"/>
+    <carburant nom="SP95" moyenne="1.697"/>
+    <carburant nom="E85" moyenne="0.763"/>
+    <carburant nom="E10" moyenne="1.710"/>
+    <carburant nom="SP98" moyenne="1.821"/>
+    <carburant nom="GPLc" moyenne="1.017"/>
+  </entree>
+  <entree date="2026-01-12">
+    <carburant nom="Gazole" moyenne="1.647"/>
+    <carburant nom="SP95" moyenne="1.709"/>
+    <carburant nom="E85" moyenne="0.770"/>
+    <carburant nom="E10" moyenne="1.691"/>
+    <carburant nom="SP98" moyenne="1.798"/>
+    <carburant nom="GPLc" moyenne="0.977"/>
+  </entree>
+  <entree date="2026-01-13">
+    <carburant nom="Gazole" moyenne="1.650"/>
+    <carburant nom="SP95" moyenne="1.719"/>
+    <carburant nom="E85" moyenne="0.774"/>
+    <carburant nom="E10" moyenne="1.693"/>
+    <carburant nom="SP98" moyenne="1.797"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-14">
+    <carburant nom="Gazole" moyenne="1.657"/>
+    <carburant nom="SP95" moyenne="1.723"/>
+    <carburant nom="E85" moyenne="0.774"/>
+    <carburant nom="E10" moyenne="1.698"/>
+    <carburant nom="SP98" moyenne="1.803"/>
+    <carburant nom="GPLc" moyenne="0.975"/>
+  </entree>
+  <entree date="2026-01-15">
+    <carburant nom="Gazole" moyenne="1.665"/>
+    <carburant nom="SP95" moyenne="1.726"/>
+    <carburant nom="E85" moyenne="0.776"/>
+    <carburant nom="E10" moyenne="1.703"/>
+    <carburant nom="SP98" moyenne="1.807"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-16">
+    <carburant nom="Gazole" moyenne="1.664"/>
+    <carburant nom="SP95" moyenne="1.726"/>
+    <carburant nom="E85" moyenne="0.773"/>
+    <carburant nom="E10" moyenne="1.699"/>
+    <carburant nom="SP98" moyenne="1.803"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-01-17">
+    <carburant nom="Gazole" moyenne="1.671"/>
+    <carburant nom="SP95" moyenne="1.714"/>
+    <carburant nom="E85" moyenne="0.781"/>
+    <carburant nom="E10" moyenne="1.705"/>
+    <carburant nom="SP98" moyenne="1.811"/>
+    <carburant nom="GPLc" moyenne="0.978"/>
+  </entree>
+  <entree date="2026-01-18">
+    <carburant nom="Gazole" moyenne="1.683"/>
+    <carburant nom="SP95" moyenne="1.710"/>
+    <carburant nom="E85" moyenne="0.793"/>
+    <carburant nom="E10" moyenne="1.715"/>
+    <carburant nom="SP98" moyenne="1.823"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-19">
+    <carburant nom="Gazole" moyenne="1.666"/>
+    <carburant nom="SP95" moyenne="1.722"/>
+    <carburant nom="E85" moyenne="0.758"/>
+    <carburant nom="E10" moyenne="1.698"/>
+    <carburant nom="SP98" moyenne="1.809"/>
+    <carburant nom="GPLc" moyenne="0.995"/>
+  </entree>
+  <entree date="2026-01-20">
+    <carburant nom="Gazole" moyenne="1.676"/>
+    <carburant nom="SP95" moyenne="1.727"/>
+    <carburant nom="E85" moyenne="0.780"/>
+    <carburant nom="E10" moyenne="1.699"/>
+    <carburant nom="SP98" moyenne="1.808"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-21">
+    <carburant nom="Gazole" moyenne="1.677"/>
+    <carburant nom="SP95" moyenne="1.723"/>
+    <carburant nom="E85" moyenne="0.779"/>
+    <carburant nom="E10" moyenne="1.699"/>
+    <carburant nom="SP98" moyenne="1.808"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-22">
+    <carburant nom="Gazole" moyenne="1.686"/>
+    <carburant nom="SP95" moyenne="1.726"/>
+    <carburant nom="E85" moyenne="0.779"/>
+    <carburant nom="E10" moyenne="1.703"/>
+    <carburant nom="SP98" moyenne="1.812"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-23">
+    <carburant nom="Gazole" moyenne="1.679"/>
+    <carburant nom="SP95" moyenne="1.726"/>
+    <carburant nom="E85" moyenne="0.775"/>
+    <carburant nom="E10" moyenne="1.698"/>
+    <carburant nom="SP98" moyenne="1.805"/>
+    <carburant nom="GPLc" moyenne="0.970"/>
+  </entree>
+  <entree date="2026-01-24">
+    <carburant nom="Gazole" moyenne="1.684"/>
+    <carburant nom="SP95" moyenne="1.712"/>
+    <carburant nom="E85" moyenne="0.781"/>
+    <carburant nom="E10" moyenne="1.702"/>
+    <carburant nom="SP98" moyenne="1.811"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-25">
+    <carburant nom="Gazole" moyenne="1.697"/>
+    <carburant nom="SP95" moyenne="1.708"/>
+    <carburant nom="E85" moyenne="0.795"/>
+    <carburant nom="E10" moyenne="1.713"/>
+    <carburant nom="SP98" moyenne="1.823"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-26">
+    <carburant nom="Gazole" moyenne="1.680"/>
+    <carburant nom="SP95" moyenne="1.723"/>
+    <carburant nom="E85" moyenne="0.778"/>
+    <carburant nom="E10" moyenne="1.699"/>
+    <carburant nom="SP98" moyenne="1.806"/>
+    <carburant nom="GPLc" moyenne="0.966"/>
+  </entree>
+  <entree date="2026-01-27">
+    <carburant nom="Gazole" moyenne="1.688"/>
+    <carburant nom="SP95" moyenne="1.728"/>
+    <carburant nom="E85" moyenne="0.781"/>
+    <carburant nom="E10" moyenne="1.704"/>
+    <carburant nom="SP98" moyenne="1.812"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-28">
+    <carburant nom="Gazole" moyenne="1.687"/>
+    <carburant nom="SP95" moyenne="1.724"/>
+    <carburant nom="E85" moyenne="0.780"/>
+    <carburant nom="E10" moyenne="1.700"/>
+    <carburant nom="SP98" moyenne="1.811"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-29">
+    <carburant nom="Gazole" moyenne="1.692"/>
+    <carburant nom="SP95" moyenne="1.726"/>
+    <carburant nom="E85" moyenne="0.781"/>
+    <carburant nom="E10" moyenne="1.704"/>
+    <carburant nom="SP98" moyenne="1.815"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-01-30">
+    <carburant nom="Gazole" moyenne="1.691"/>
+    <carburant nom="SP95" moyenne="1.729"/>
+    <carburant nom="E85" moyenne="0.778"/>
+    <carburant nom="E10" moyenne="1.703"/>
+    <carburant nom="SP98" moyenne="1.812"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-01-31">
+    <carburant nom="Gazole" moyenne="1.698"/>
+    <carburant nom="SP95" moyenne="1.718"/>
+    <carburant nom="E85" moyenne="0.780"/>
+    <carburant nom="E10" moyenne="1.706"/>
+    <carburant nom="SP98" moyenne="1.818"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-02-01">
+    <carburant nom="Gazole" moyenne="1.713"/>
+    <carburant nom="SP95" moyenne="1.717"/>
+    <carburant nom="E85" moyenne="0.794"/>
+    <carburant nom="E10" moyenne="1.718"/>
+    <carburant nom="SP98" moyenne="1.831"/>
+    <carburant nom="GPLc" moyenne="0.974"/>
+  </entree>
+  <entree date="2026-02-02">
+    <carburant nom="Gazole" moyenne="1.692"/>
+    <carburant nom="SP95" moyenne="1.728"/>
+    <carburant nom="E85" moyenne="0.775"/>
+    <carburant nom="E10" moyenne="1.700"/>
+    <carburant nom="SP98" moyenne="1.808"/>
+    <carburant nom="GPLc" moyenne="0.970"/>
+  </entree>
+  <entree date="2026-02-03">
+    <carburant nom="Gazole" moyenne="1.698"/>
+    <carburant nom="SP95" moyenne="1.731"/>
+    <carburant nom="E85" moyenne="0.780"/>
+    <carburant nom="E10" moyenne="1.703"/>
+    <carburant nom="SP98" moyenne="1.809"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-02-04">
+    <carburant nom="Gazole" moyenne="1.699"/>
+    <carburant nom="SP95" moyenne="1.728"/>
+    <carburant nom="E85" moyenne="0.780"/>
+    <carburant nom="E10" moyenne="1.704"/>
+    <carburant nom="SP98" moyenne="1.812"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-02-05">
+    <carburant nom="Gazole" moyenne="1.702"/>
+    <carburant nom="SP95" moyenne="1.731"/>
+    <carburant nom="E85" moyenne="0.781"/>
+    <carburant nom="E10" moyenne="1.707"/>
+    <carburant nom="SP98" moyenne="1.818"/>
+    <carburant nom="GPLc" moyenne="0.978"/>
+  </entree>
+  <entree date="2026-02-06">
+    <carburant nom="Gazole" moyenne="1.700"/>
+    <carburant nom="SP95" moyenne="1.733"/>
+    <carburant nom="E85" moyenne="0.777"/>
+    <carburant nom="E10" moyenne="1.706"/>
+    <carburant nom="SP98" moyenne="1.815"/>
+    <carburant nom="GPLc" moyenne="0.974"/>
+  </entree>
+  <entree date="2026-02-07">
+    <carburant nom="Gazole" moyenne="1.703"/>
+    <carburant nom="SP95" moyenne="1.728"/>
+    <carburant nom="E85" moyenne="0.782"/>
+    <carburant nom="E10" moyenne="1.711"/>
+    <carburant nom="SP98" moyenne="1.823"/>
+    <carburant nom="GPLc" moyenne="0.976"/>
+  </entree>
+  <entree date="2026-02-08">
+    <carburant nom="Gazole" moyenne="1.713"/>
+    <carburant nom="SP95" moyenne="1.722"/>
+    <carburant nom="E85" moyenne="0.790"/>
+    <carburant nom="E10" moyenne="1.720"/>
+    <carburant nom="SP98" moyenne="1.832"/>
+    <carburant nom="GPLc" moyenne="0.974"/>
+  </entree>
+  <entree date="2026-02-09">
+    <carburant nom="Gazole" moyenne="1.696"/>
+    <carburant nom="SP95" moyenne="1.732"/>
+    <carburant nom="E85" moyenne="0.775"/>
+    <carburant nom="E10" moyenne="1.705"/>
+    <carburant nom="SP98" moyenne="1.814"/>
+    <carburant nom="GPLc" moyenne="0.976"/>
+  </entree>
+  <entree date="2026-02-10">
+    <carburant nom="Gazole" moyenne="1.699"/>
+    <carburant nom="SP95" moyenne="1.737"/>
+    <carburant nom="E85" moyenne="0.780"/>
+    <carburant nom="E10" moyenne="1.711"/>
+    <carburant nom="SP98" moyenne="1.819"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-02-11">
+    <carburant nom="Gazole" moyenne="1.698"/>
+    <carburant nom="SP95" moyenne="1.738"/>
+    <carburant nom="E85" moyenne="0.779"/>
+    <carburant nom="E10" moyenne="1.714"/>
+    <carburant nom="SP98" moyenne="1.821"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-02-12">
+    <carburant nom="Gazole" moyenne="1.705"/>
+    <carburant nom="SP95" moyenne="1.742"/>
+    <carburant nom="E85" moyenne="0.777"/>
+    <carburant nom="E10" moyenne="1.720"/>
+    <carburant nom="SP98" moyenne="1.829"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-02-13">
+    <carburant nom="Gazole" moyenne="1.698"/>
+    <carburant nom="SP95" moyenne="1.744"/>
+    <carburant nom="E85" moyenne="0.777"/>
+    <carburant nom="E10" moyenne="1.715"/>
+    <carburant nom="SP98" moyenne="1.823"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-02-14">
+    <carburant nom="Gazole" moyenne="1.696"/>
+    <carburant nom="SP95" moyenne="1.733"/>
+    <carburant nom="E85" moyenne="0.782"/>
+    <carburant nom="E10" moyenne="1.714"/>
+    <carburant nom="SP98" moyenne="1.825"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-02-15">
+    <carburant nom="Gazole" moyenne="1.716"/>
+    <carburant nom="SP95" moyenne="1.731"/>
+    <carburant nom="E85" moyenne="0.770"/>
+    <carburant nom="E10" moyenne="1.733"/>
+    <carburant nom="SP98" moyenne="1.851"/>
+    <carburant nom="GPLc" moyenne="1.020"/>
+  </entree>
+  <entree date="2026-02-16">
+    <carburant nom="Gazole" moyenne="1.691"/>
+    <carburant nom="SP95" moyenne="1.739"/>
+    <carburant nom="E85" moyenne="0.774"/>
+    <carburant nom="E10" moyenne="1.710"/>
+    <carburant nom="SP98" moyenne="1.819"/>
+    <carburant nom="GPLc" moyenne="0.957"/>
+  </entree>
+  <entree date="2026-02-17">
+    <carburant nom="Gazole" moyenne="1.693"/>
+    <carburant nom="SP95" moyenne="1.733"/>
+    <carburant nom="E85" moyenne="0.779"/>
+    <carburant nom="E10" moyenne="1.711"/>
+    <carburant nom="SP98" moyenne="1.823"/>
+    <carburant nom="GPLc" moyenne="0.973"/>
+  </entree>
+  <entree date="2026-02-18">
+    <carburant nom="Gazole" moyenne="1.691"/>
+    <carburant nom="SP95" moyenne="1.736"/>
+    <carburant nom="E85" moyenne="0.779"/>
+    <carburant nom="E10" moyenne="1.708"/>
+    <carburant nom="SP98" moyenne="1.820"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-02-19">
+    <carburant nom="Gazole" moyenne="1.696"/>
+    <carburant nom="SP95" moyenne="1.733"/>
+    <carburant nom="E85" moyenne="0.776"/>
+    <carburant nom="E10" moyenne="1.709"/>
+    <carburant nom="SP98" moyenne="1.823"/>
+    <carburant nom="GPLc" moyenne="0.970"/>
+  </entree>
+  <entree date="2026-02-20">
+    <carburant nom="Gazole" moyenne="1.652"/>
+    <carburant nom="SP95" moyenne="1.683"/>
+    <carburant nom="E85" moyenne="0.739"/>
+    <carburant nom="E10" moyenne="1.653"/>
+    <carburant nom="SP98" moyenne="1.771"/>
+    <carburant nom="GPLc" moyenne="0.970"/>
+  </entree>
+  <entree date="2026-02-21">
+    <carburant nom="Gazole" moyenne="1.677"/>
+    <carburant nom="SP95" moyenne="1.699"/>
+    <carburant nom="E85" moyenne="0.758"/>
+    <carburant nom="E10" moyenne="1.681"/>
+    <carburant nom="SP98" moyenne="1.798"/>
+    <carburant nom="GPLc" moyenne="0.976"/>
+  </entree>
+  <entree date="2026-02-22">
+    <carburant nom="Gazole" moyenne="1.711"/>
+    <carburant nom="SP95" moyenne="1.718"/>
+    <carburant nom="E85" moyenne="0.781"/>
+    <carburant nom="E10" moyenne="1.716"/>
+    <carburant nom="SP98" moyenne="1.830"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-02-23">
+    <carburant nom="Gazole" moyenne="1.701"/>
+    <carburant nom="SP95" moyenne="1.738"/>
+    <carburant nom="E85" moyenne="0.774"/>
+    <carburant nom="E10" moyenne="1.706"/>
+    <carburant nom="SP98" moyenne="1.817"/>
+    <carburant nom="GPLc" moyenne="0.971"/>
+  </entree>
+  <entree date="2026-02-24">
+    <carburant nom="Gazole" moyenne="1.717"/>
+    <carburant nom="SP95" moyenne="1.749"/>
+    <carburant nom="E85" moyenne="0.783"/>
+    <carburant nom="E10" moyenne="1.719"/>
+    <carburant nom="SP98" moyenne="1.832"/>
+    <carburant nom="GPLc" moyenne="0.975"/>
+  </entree>
+  <entree date="2026-02-25">
+    <carburant nom="Gazole" moyenne="1.722"/>
+    <carburant nom="SP95" moyenne="1.755"/>
+    <carburant nom="E85" moyenne="0.784"/>
+    <carburant nom="E10" moyenne="1.723"/>
+    <carburant nom="SP98" moyenne="1.835"/>
+    <carburant nom="GPLc" moyenne="0.977"/>
+  </entree>
+  <entree date="2026-02-26">
+    <carburant nom="Gazole" moyenne="1.725"/>
+    <carburant nom="SP95" moyenne="1.756"/>
+    <carburant nom="E85" moyenne="0.785"/>
+    <carburant nom="E10" moyenne="1.728"/>
+    <carburant nom="SP98" moyenne="1.838"/>
+    <carburant nom="GPLc" moyenne="0.974"/>
+  </entree>
+  <entree date="2026-02-27">
+    <carburant nom="Gazole" moyenne="1.727"/>
+    <carburant nom="SP95" moyenne="1.757"/>
+    <carburant nom="E85" moyenne="0.785"/>
+    <carburant nom="E10" moyenne="1.727"/>
+    <carburant nom="SP98" moyenne="1.837"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-02-28">
+    <carburant nom="Gazole" moyenne="1.733"/>
+    <carburant nom="SP95" moyenne="1.756"/>
+    <carburant nom="E85" moyenne="0.785"/>
+    <carburant nom="E10" moyenne="1.733"/>
+    <carburant nom="SP98" moyenne="1.844"/>
+    <carburant nom="GPLc" moyenne="0.972"/>
+  </entree>
+  <entree date="2026-03-01">
+    <carburant nom="Gazole" moyenne="1.754"/>
+    <carburant nom="SP95" moyenne="1.745"/>
+    <carburant nom="E85" moyenne="0.797"/>
+    <carburant nom="E10" moyenne="1.755"/>
+    <carburant nom="SP98" moyenne="1.867"/>
+    <carburant nom="GPLc" moyenne="0.976"/>
+  </entree>
+  <entree date="2026-03-02">
+    <carburant nom="Gazole" moyenne="1.742"/>
+    <carburant nom="SP95" moyenne="1.779"/>
+    <carburant nom="E85" moyenne="0.794"/>
+    <carburant nom="E10" moyenne="1.737"/>
+    <carburant nom="SP98" moyenne="1.849"/>
+    <carburant nom="GPLc" moyenne="0.984"/>
+  </entree>
+  <entree date="2026-03-03">
+    <carburant nom="Gazole" moyenne="1.817"/>
+    <carburant nom="SP95" moyenne="1.818"/>
+    <carburant nom="E85" moyenne="0.795"/>
+    <carburant nom="E10" moyenne="1.772"/>
+    <carburant nom="SP98" moyenne="1.881"/>
+    <carburant nom="GPLc" moyenne="0.990"/>
+  </entree>
+  <entree date="2026-03-04">
+    <carburant nom="Gazole" moyenne="1.892"/>
+    <carburant nom="SP95" moyenne="1.835"/>
+    <carburant nom="E85" moyenne="0.789"/>
+    <carburant nom="E10" moyenne="1.789"/>
+    <carburant nom="SP98" moyenne="1.898"/>
+    <carburant nom="GPLc" moyenne="0.981"/>
+  </entree>
+  <entree date="2026-03-05">
+    <carburant nom="Gazole" moyenne="1.945"/>
+    <carburant nom="SP95" moyenne="1.853"/>
+    <carburant nom="E85" moyenne="0.792"/>
+    <carburant nom="E10" moyenne="1.799"/>
+    <carburant nom="SP98" moyenne="1.908"/>
+    <carburant nom="GPLc" moyenne="0.980"/>
+  </entree>
+  <entree date="2026-03-06">
+    <carburant nom="Gazole" moyenne="1.983"/>
+    <carburant nom="SP95" moyenne="1.865"/>
+    <carburant nom="E85" moyenne="0.801"/>
+    <carburant nom="E10" moyenne="1.822"/>
+    <carburant nom="SP98" moyenne="1.930"/>
+    <carburant nom="GPLc" moyenne="0.983"/>
+  </entree>
+  <entree date="2026-03-07">
+    <carburant nom="Gazole" moyenne="1.998"/>
+    <carburant nom="SP95" moyenne="1.854"/>
+    <carburant nom="E85" moyenne="0.807"/>
+    <carburant nom="E10" moyenne="1.836"/>
+    <carburant nom="SP98" moyenne="1.940"/>
+    <carburant nom="GPLc" moyenne="0.980"/>
+  </entree>
+  <entree date="2026-03-08">
+    <carburant nom="Gazole" moyenne="2.007"/>
+    <carburant nom="SP95" moyenne="1.847"/>
+    <carburant nom="E85" moyenne="0.817"/>
+    <carburant nom="E10" moyenne="1.853"/>
+    <carburant nom="SP98" moyenne="1.953"/>
+    <carburant nom="GPLc" moyenne="0.982"/>
+  </entree>
+  <entree date="2026-03-09">
+    <carburant nom="Gazole" moyenne="2.020"/>
+    <carburant nom="SP95" moyenne="1.879"/>
+    <carburant nom="E85" moyenne="0.814"/>
+    <carburant nom="E10" moyenne="1.842"/>
+    <carburant nom="SP98" moyenne="1.947"/>
+    <carburant nom="GPLc" moyenne="0.981"/>
+  </entree>
+  <entree date="2026-03-10">
+    <carburant nom="Gazole" moyenne="2.046"/>
+    <carburant nom="SP95" moyenne="1.904"/>
+    <carburant nom="E85" moyenne="0.814"/>
+    <carburant nom="E10" moyenne="1.867"/>
+    <carburant nom="SP98" moyenne="1.965"/>
+    <carburant nom="GPLc" moyenne="0.983"/>
+  </entree>
+  <entree date="2026-03-11">
+    <carburant nom="Gazole" moyenne="2.041"/>
+    <carburant nom="SP95" moyenne="1.906"/>
+    <carburant nom="E85" moyenne="0.815"/>
+    <carburant nom="E10" moyenne="1.871"/>
+    <carburant nom="SP98" moyenne="1.970"/>
+    <carburant nom="GPLc" moyenne="0.980"/>
+  </entree>
+  <entree date="2026-03-12">
+    <carburant nom="Gazole" moyenne="2.030"/>
+    <carburant nom="SP95" moyenne="1.902"/>
+    <carburant nom="E85" moyenne="0.812"/>
+    <carburant nom="E10" moyenne="1.885"/>
+    <carburant nom="SP98" moyenne="1.978"/>
+    <carburant nom="GPLc" moyenne="0.979"/>
+  </entree>
+  <entree date="2026-03-13">
+    <carburant nom="Gazole" moyenne="2.050"/>
+    <carburant nom="SP95" moyenne="1.915"/>
+    <carburant nom="E85" moyenne="0.812"/>
+    <carburant nom="E10" moyenne="1.902"/>
+    <carburant nom="SP98" moyenne="1.989"/>
+    <carburant nom="GPLc" moyenne="0.979"/>
+  </entree>
+  <entree date="2026-03-14">
+    <carburant nom="Gazole" moyenne="2.043"/>
+    <carburant nom="SP95" moyenne="1.900"/>
+    <carburant nom="E85" moyenne="0.809"/>
+    <carburant nom="E10" moyenne="1.897"/>
+    <carburant nom="SP98" moyenne="1.989"/>
+    <carburant nom="GPLc" moyenne="0.977"/>
+  </entree>
+  <entree date="2026-03-15">
+    <carburant nom="Gazole" moyenne="2.056"/>
+    <carburant nom="SP95" moyenne="1.894"/>
+    <carburant nom="E85" moyenne="0.828"/>
+    <carburant nom="E10" moyenne="1.917"/>
+    <carburant nom="SP98" moyenne="2.005"/>
+    <carburant nom="GPLc" moyenne="0.980"/>
+  </entree>
+  <entree date="2026-03-16">
+    <carburant nom="Gazole" moyenne="2.059"/>
+    <carburant nom="SP95" moyenne="1.925"/>
+    <carburant nom="E85" moyenne="0.812"/>
+    <carburant nom="E10" moyenne="1.906"/>
+    <carburant nom="SP98" moyenne="2.000"/>
+    <carburant nom="GPLc" moyenne="0.983"/>
+  </entree>
+  <entree date="2026-03-17">
+    <carburant nom="Gazole" moyenne="2.088"/>
+    <carburant nom="SP95" moyenne="1.941"/>
+    <carburant nom="E85" moyenne="0.825"/>
+    <carburant nom="E10" moyenne="1.932"/>
+    <carburant nom="SP98" moyenne="2.014"/>
+    <carburant nom="GPLc" moyenne="0.987"/>
+  </entree>
+  <entree date="2026-03-18">
+    <carburant nom="Gazole" moyenne="2.088"/>
+    <carburant nom="SP95" moyenne="1.941"/>
+    <carburant nom="E85" moyenne="0.828"/>
+    <carburant nom="E10" moyenne="1.937"/>
+    <carburant nom="SP98" moyenne="2.020"/>
+    <carburant nom="GPLc" moyenne="0.987"/>
+  </entree>
+  <entree date="2026-03-19">
+    <carburant nom="Gazole" moyenne="2.111"/>
+    <carburant nom="SP95" moyenne="1.956"/>
+    <carburant nom="E85" moyenne="0.835"/>
+    <carburant nom="E10" moyenne="1.950"/>
+    <carburant nom="SP98" moyenne="2.036"/>
+    <carburant nom="GPLc" moyenne="0.992"/>
+  </entree>
+  <entree date="2026-03-20">
+    <carburant nom="Gazole" moyenne="2.149"/>
+    <carburant nom="SP95" moyenne="1.991"/>
+    <carburant nom="E85" moyenne="0.831"/>
+    <carburant nom="E10" moyenne="1.969"/>
+    <carburant nom="SP98" moyenne="2.049"/>
+    <carburant nom="GPLc" moyenne="0.990"/>
+  </entree>
+  <entree date="2026-03-21">
+    <carburant nom="Gazole" moyenne="2.161"/>
+    <carburant nom="SP95" moyenne="1.998"/>
+    <carburant nom="E85" moyenne="0.832"/>
+    <carburant nom="E10" moyenne="1.983"/>
+    <carburant nom="SP98" moyenne="2.050"/>
+    <carburant nom="GPLc" moyenne="0.988"/>
+  </entree>
+  <entree date="2026-03-22">
+    <carburant nom="Gazole" moyenne="2.151"/>
+    <carburant nom="SP95" moyenne="1.997"/>
+    <carburant nom="E85" moyenne="0.847"/>
+    <carburant nom="E10" moyenne="1.993"/>
+    <carburant nom="SP98" moyenne="2.040"/>
+    <carburant nom="GPLc" moyenne="0.985"/>
+  </entree>
+  <entree date="2026-03-23">
+    <carburant nom="Gazole" moyenne="2.210"/>
+    <carburant nom="SP95" moyenne="2.021"/>
+    <carburant nom="E85" moyenne="0.841"/>
+    <carburant nom="E10" moyenne="1.996"/>
+    <carburant nom="SP98" moyenne="2.074"/>
+    <carburant nom="GPLc" moyenne="0.991"/>
+  </entree>
+  <entree date="2026-03-24">
+    <carburant nom="Gazole" moyenne="2.234"/>
+    <carburant nom="SP95" moyenne="2.034"/>
+    <carburant nom="E85" moyenne="0.844"/>
+    <carburant nom="E10" moyenne="1.995"/>
+    <carburant nom="SP98" moyenne="2.079"/>
+    <carburant nom="GPLc" moyenne="0.995"/>
+  </entree>
+  <entree date="2026-03-25">
+    <carburant nom="Gazole" moyenne="2.216"/>
+    <carburant nom="SP95" moyenne="2.026"/>
+    <carburant nom="E85" moyenne="0.841"/>
+    <carburant nom="E10" moyenne="1.995"/>
+    <carburant nom="SP98" moyenne="2.066"/>
+    <carburant nom="GPLc" moyenne="0.988"/>
+  </entree>
+  <entree date="2026-03-26">
+    <carburant nom="Gazole" moyenne="2.203"/>
+    <carburant nom="SP95" moyenne="2.018"/>
+    <carburant nom="E85" moyenne="0.839"/>
+    <carburant nom="E10" moyenne="1.967"/>
+    <carburant nom="SP98" moyenne="2.054"/>
+    <carburant nom="GPLc" moyenne="0.989"/>
+  </entree>
+  <entree date="2026-03-27">
+    <carburant nom="Gazole" moyenne="2.200"/>
+    <carburant nom="SP95" moyenne="2.010"/>
+    <carburant nom="E85" moyenne="0.835"/>
+    <carburant nom="E10" moyenne="1.980"/>
+    <carburant nom="SP98" moyenne="2.059"/>
+    <carburant nom="GPLc" moyenne="0.995"/>
+  </entree>
+  <entree date="2026-03-28">
+    <carburant nom="Gazole" moyenne="2.200"/>
+    <carburant nom="SP95" moyenne="2.008"/>
+    <carburant nom="E85" moyenne="0.830"/>
+    <carburant nom="E10" moyenne="1.986"/>
+    <carburant nom="SP98" moyenne="2.053"/>
+    <carburant nom="GPLc" moyenne="0.993"/>
+  </entree>
+  <entree date="2026-03-29">
+    <carburant nom="Gazole" moyenne="2.173"/>
+    <carburant nom="SP95" moyenne="2.007"/>
+    <carburant nom="E85" moyenne="0.846"/>
+    <carburant nom="E10" moyenne="1.992"/>
+    <carburant nom="SP98" moyenne="2.043"/>
+    <carburant nom="GPLc" moyenne="0.994"/>
+  </entree>
+  <entree date="2026-03-30">
+    <carburant nom="Gazole" moyenne="2.232"/>
+    <carburant nom="SP95" moyenne="2.021"/>
+    <carburant nom="E85" moyenne="0.841"/>
+    <carburant nom="E10" moyenne="1.992"/>
+    <carburant nom="SP98" moyenne="2.074"/>
+    <carburant nom="GPLc" moyenne="1.001"/>
+  </entree>
+  <entree date="2026-03-31">
+    <carburant nom="Gazole" moyenne="2.242"/>
+    <carburant nom="SP95" moyenne="2.035"/>
+    <carburant nom="E85" moyenne="0.834"/>
+    <carburant nom="E10" moyenne="2.000"/>
+    <carburant nom="SP98" moyenne="2.077"/>
+    <carburant nom="GPLc" moyenne="1.002"/>
+  </entree>
+  <entree date="2026-04-01">
+    <carburant nom="Gazole" moyenne="2.242"/>
+    <carburant nom="SP95" moyenne="2.040"/>
+    <carburant nom="E85" moyenne="0.831"/>
+    <carburant nom="E10" moyenne="2.000"/>
+    <carburant nom="SP98" moyenne="2.074"/>
+    <carburant nom="GPLc" moyenne="1.002"/>
+  </entree>
+  <entree date="2026-04-02">
+    <carburant nom="Gazole" moyenne="2.254"/>
+    <carburant nom="SP95" moyenne="2.043"/>
+    <carburant nom="E85" moyenne="0.847"/>
+    <carburant nom="E10" moyenne="2.009"/>
+    <carburant nom="SP98" moyenne="2.090"/>
+    <carburant nom="GPLc" moyenne="1.020"/>
+  </entree>
+  <entree date="2026-04-03">
+    <carburant nom="Gazole" moyenne="2.295"/>
+    <carburant nom="SP95" moyenne="2.059"/>
+    <carburant nom="E85" moyenne="0.842"/>
+    <carburant nom="E10" moyenne="2.015"/>
+    <carburant nom="SP98" moyenne="2.103"/>
+    <carburant nom="GPLc" moyenne="1.023"/>
+  </entree>
+  <entree date="2026-04-04">
+    <carburant nom="Gazole" moyenne="2.301"/>
+    <carburant nom="SP95" moyenne="2.048"/>
+    <carburant nom="E85" moyenne="0.837"/>
+    <carburant nom="E10" moyenne="2.014"/>
+    <carburant nom="SP98" moyenne="2.092"/>
+    <carburant nom="GPLc" moyenne="1.025"/>
+  </entree>
+  <entree date="2026-04-05">
+    <carburant nom="Gazole" moyenne="2.280"/>
+    <carburant nom="SP95" moyenne="2.042"/>
+    <carburant nom="E85" moyenne="0.863"/>
+    <carburant nom="E10" moyenne="2.019"/>
+    <carburant nom="SP98" moyenne="2.088"/>
+    <carburant nom="GPLc" moyenne="1.033"/>
+  </entree>
+  <entree date="2026-04-06">
+    <carburant nom="Gazole" moyenne="2.307"/>
+    <carburant nom="SP95" moyenne="2.047"/>
+    <carburant nom="E85" moyenne="0.858"/>
+    <carburant nom="E10" moyenne="2.024"/>
+    <carburant nom="SP98" moyenne="2.102"/>
+    <carburant nom="GPLc" moyenne="1.034"/>
+  </entree>
+  <entree date="2026-04-07">
+    <carburant nom="Gazole" moyenne="2.357"/>
+    <carburant nom="SP95" moyenne="2.060"/>
+    <carburant nom="E85" moyenne="0.841"/>
+    <carburant nom="E10" moyenne="2.015"/>
+    <carburant nom="SP98" moyenne="2.102"/>
+    <carburant nom="GPLc" moyenne="1.028"/>
+  </entree>
+  <entree date="2026-04-08">
+    <carburant nom="Gazole" moyenne="2.388"/>
+    <carburant nom="SP95" moyenne="2.069"/>
+    <carburant nom="E85" moyenne="0.843"/>
+    <carburant nom="E10" moyenne="2.023"/>
+    <carburant nom="SP98" moyenne="2.106"/>
+    <carburant nom="GPLc" moyenne="1.044"/>
+  </entree>
+  <entree date="2026-04-09">
+    <carburant nom="Gazole" moyenne="2.345"/>
+    <carburant nom="SP95" moyenne="2.041"/>
+    <carburant nom="E85" moyenne="0.851"/>
+    <carburant nom="E10" moyenne="1.998"/>
+    <carburant nom="SP98" moyenne="2.088"/>
+    <carburant nom="GPLc" moyenne="1.048"/>
+  </entree>
+  <entree date="2026-04-10">
+    <carburant nom="Gazole" moyenne="2.319"/>
+    <carburant nom="SP95" moyenne="2.033"/>
+    <carburant nom="E85" moyenne="0.864"/>
+    <carburant nom="E10" moyenne="1.992"/>
+    <carburant nom="SP98" moyenne="2.083"/>
+    <carburant nom="GPLc" moyenne="1.060"/>
+  </entree>
+  <entree date="2026-04-11">
+    <carburant nom="Gazole" moyenne="2.299"/>
+    <carburant nom="SP95" moyenne="2.025"/>
+    <carburant nom="E85" moyenne="0.870"/>
+    <carburant nom="E10" moyenne="1.990"/>
+    <carburant nom="SP98" moyenne="2.077"/>
+    <carburant nom="GPLc" moyenne="1.067"/>
+  </entree>
+  <entree date="2026-04-12">
+    <carburant nom="Gazole" moyenne="2.284"/>
+    <carburant nom="SP95" moyenne="2.032"/>
+    <carburant nom="E85" moyenne="0.881"/>
+    <carburant nom="E10" moyenne="1.991"/>
+    <carburant nom="SP98" moyenne="2.061"/>
+    <carburant nom="GPLc" moyenne="1.069"/>
+  </entree>
+  <entree date="2026-04-13">
+    <carburant nom="Gazole" moyenne="2.293"/>
+    <carburant nom="SP95" moyenne="2.028"/>
+    <carburant nom="E85" moyenne="0.870"/>
+    <carburant nom="E10" moyenne="1.989"/>
+    <carburant nom="SP98" moyenne="2.075"/>
+    <carburant nom="GPLc" moyenne="1.063"/>
+  </entree>
+  <entree date="2026-04-14">
+    <carburant nom="Gazole" moyenne="2.295"/>
+    <carburant nom="SP95" moyenne="2.033"/>
+    <carburant nom="E85" moyenne="0.876"/>
+    <carburant nom="E10" moyenne="1.995"/>
+    <carburant nom="SP98" moyenne="2.076"/>
+    <carburant nom="GPLc" moyenne="1.068"/>
+  </entree>
+  <entree date="2026-04-15">
+    <carburant nom="Gazole" moyenne="2.274"/>
+    <carburant nom="SP95" moyenne="2.037"/>
+    <carburant nom="E85" moyenne="0.874"/>
+    <carburant nom="E10" moyenne="1.990"/>
+    <carburant nom="SP98" moyenne="2.076"/>
+    <carburant nom="GPLc" moyenne="1.077"/>
+  </entree>
+  <entree date="2026-04-16">
+    <carburant nom="Gazole" moyenne="2.245"/>
+    <carburant nom="SP95" moyenne="2.022"/>
+    <carburant nom="E85" moyenne="0.865"/>
+    <carburant nom="E10" moyenne="1.984"/>
+    <carburant nom="SP98" moyenne="2.064"/>
+    <carburant nom="GPLc" moyenne="1.075"/>
+  </entree>
+  <entree date="2026-04-17">
+    <carburant nom="Gazole" moyenne="2.231"/>
+    <carburant nom="SP95" moyenne="2.022"/>
+    <carburant nom="E85" moyenne="0.865"/>
+    <carburant nom="E10" moyenne="1.981"/>
+    <carburant nom="SP98" moyenne="2.068"/>
+    <carburant nom="GPLc" moyenne="1.085"/>
+  </entree>
+  <entree date="2026-04-18">
+    <carburant nom="Gazole" moyenne="2.182"/>
+    <carburant nom="SP95" moyenne="2.015"/>
+    <carburant nom="E85" moyenne="0.868"/>
+    <carburant nom="E10" moyenne="1.955"/>
+    <carburant nom="SP98" moyenne="2.048"/>
+    <carburant nom="GPLc" moyenne="1.080"/>
+  </entree>
+  <entree date="2026-04-19">
+    <carburant nom="Gazole" moyenne="2.156"/>
+    <carburant nom="SP95" moyenne="2.018"/>
+    <carburant nom="E85" moyenne="0.878"/>
+    <carburant nom="E10" moyenne="1.954"/>
+    <carburant nom="SP98" moyenne="2.041"/>
+    <carburant nom="GPLc" moyenne="1.086"/>
+  </entree>
+  <entree date="2026-04-20">
+    <carburant nom="Gazole" moyenne="2.179"/>
+    <carburant nom="SP95" moyenne="2.014"/>
+    <carburant nom="E85" moyenne="0.860"/>
+    <carburant nom="E10" moyenne="1.963"/>
+    <carburant nom="SP98" moyenne="2.056"/>
+    <carburant nom="GPLc" moyenne="1.082"/>
+  </entree>
+  <entree date="2026-04-21">
+    <carburant nom="Gazole" moyenne="2.164"/>
+    <carburant nom="SP95" moyenne="2.004"/>
+    <carburant nom="E85" moyenne="0.863"/>
+    <carburant nom="E10" moyenne="1.968"/>
+    <carburant nom="SP98" moyenne="2.053"/>
+    <carburant nom="GPLc" moyenne="1.084"/>
+  </entree>
+  <entree date="2026-04-22">
+    <carburant nom="Gazole" moyenne="2.159"/>
+    <carburant nom="SP95" moyenne="2.008"/>
+    <carburant nom="E85" moyenne="0.863"/>
+    <carburant nom="E10" moyenne="1.974"/>
+    <carburant nom="SP98" moyenne="2.054"/>
+    <carburant nom="GPLc" moyenne="1.085"/>
+  </entree>
+  <entree date="2026-04-23">
+    <carburant nom="Gazole" moyenne="2.176"/>
+    <carburant nom="SP95" moyenne="2.011"/>
+    <carburant nom="E85" moyenne="0.867"/>
+    <carburant nom="E10" moyenne="1.982"/>
+    <carburant nom="SP98" moyenne="2.059"/>
+    <carburant nom="GPLc" moyenne="1.085"/>
+  </entree>
+  <entree date="2026-04-24">
+    <carburant nom="Gazole" moyenne="2.179"/>
+    <carburant nom="SP95" moyenne="2.021"/>
+    <carburant nom="E85" moyenne="0.865"/>
+    <carburant nom="E10" moyenne="1.989"/>
+    <carburant nom="SP98" moyenne="2.068"/>
+    <carburant nom="GPLc" moyenne="1.087"/>
+  </entree>
+  <entree date="2026-04-25">
+    <carburant nom="Gazole" moyenne="2.186"/>
+    <carburant nom="SP95" moyenne="2.019"/>
+    <carburant nom="E85" moyenne="0.869"/>
+    <carburant nom="E10" moyenne="1.994"/>
+    <carburant nom="SP98" moyenne="2.064"/>
+    <carburant nom="GPLc" moyenne="1.089"/>
+  </entree>
+  <entree date="2026-04-26">
+    <carburant nom="Gazole" moyenne="2.200"/>
+    <carburant nom="SP95" moyenne="2.015"/>
+    <carburant nom="E85" moyenne="0.876"/>
+    <carburant nom="E10" moyenne="1.996"/>
+    <carburant nom="SP98" moyenne="2.055"/>
+    <carburant nom="GPLc" moyenne="1.092"/>
+  </entree>
+  <entree date="2026-04-27">
+    <carburant nom="Gazole" moyenne="2.187"/>
+    <carburant nom="SP95" moyenne="2.032"/>
+    <carburant nom="E85" moyenne="0.865"/>
+    <carburant nom="E10" moyenne="1.999"/>
+    <carburant nom="SP98" moyenne="2.077"/>
+    <carburant nom="GPLc" moyenne="1.089"/>
+  </entree>
+  <entree date="2026-04-28">
+    <carburant nom="Gazole" moyenne="2.201"/>
+    <carburant nom="SP95" moyenne="2.040"/>
+    <carburant nom="E85" moyenne="0.868"/>
+    <carburant nom="E10" moyenne="2.007"/>
+    <carburant nom="SP98" moyenne="2.083"/>
+    <carburant nom="GPLc" moyenne="1.093"/>
+  </entree>
+  <entree date="2026-04-29">
+    <carburant nom="Gazole" moyenne="2.201"/>
+    <carburant nom="SP95" moyenne="2.043"/>
+    <carburant nom="E85" moyenne="0.869"/>
+    <carburant nom="E10" moyenne="2.010"/>
+    <carburant nom="SP98" moyenne="2.084"/>
+    <carburant nom="GPLc" moyenne="1.093"/>
+  </entree>
+  <entree date="2026-04-30">
+    <carburant nom="Gazole" moyenne="2.207"/>
+    <carburant nom="SP95" moyenne="2.051"/>
+    <carburant nom="E85" moyenne="0.867"/>
+    <carburant nom="E10" moyenne="2.018"/>
+    <carburant nom="SP98" moyenne="2.095"/>
+    <carburant nom="GPLc" moyenne="1.092"/>
+  </entree>
+  <entree date="2026-05-01">
+    <carburant nom="Gazole" moyenne="2.155"/>
+    <carburant nom="SP95" moyenne="2.038"/>
+    <carburant nom="E85" moyenne="0.886"/>
+    <carburant nom="E10" moyenne="2.012"/>
+    <carburant nom="SP98" moyenne="2.052"/>
+    <carburant nom="GPLc" moyenne="1.083"/>
+  </entree>
+  <entree date="2026-05-02">
+    <carburant nom="Gazole" moyenne="2.157"/>
+    <carburant nom="SP95" moyenne="2.059"/>
+    <carburant nom="E85" moyenne="0.862"/>
+    <carburant nom="E10" moyenne="2.019"/>
+    <carburant nom="SP98" moyenne="2.090"/>
+    <carburant nom="GPLc" moyenne="1.085"/>
+  </entree>
+  <entree date="2026-05-03">
+    <carburant nom="Gazole" moyenne="2.157"/>
+    <carburant nom="SP95" moyenne="2.059"/>
+    <carburant nom="E85" moyenne="0.862"/>
+    <carburant nom="E10" moyenne="2.019"/>
+    <carburant nom="SP98" moyenne="2.090"/>
+    <carburant nom="GPLc" moyenne="1.085"/>
+  </entree>
+  <entree date="2026-05-04">
+    <carburant nom="SP98" moyenne="2.112"/>
+    <carburant nom="Gazole" moyenne="2.201"/>
+    <carburant nom="E10" moyenne="2.022"/>
+    <carburant nom="E85" moyenne="0.853"/>
+    <carburant nom="GPLc" moyenne="1.073"/>
+    <carburant nom="SP95" moyenne="2.058"/>
+  </entree>
+</historique>
