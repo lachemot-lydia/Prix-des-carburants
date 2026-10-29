@@ -6,7 +6,8 @@ Site de consultation des prix des carburants en France métropolitaine.
  
 - Lydia **LACHEMOT**
 - Thomas **LENGLIN**
-Licence 2 Informatique — Semestre 4  
+  
+Licence 2 Informatique - Semestre 4  
 UE : Développement web  
 Année universitaire : 2025–2026  
 Établissement : CY Cergy Paris Université
